@@ -1,6 +1,6 @@
 ### 👋Hi! My name is Natan Vilas Boas
 
-- 🔭 Trabalho atualmente com suporte técnico
+- 🔭 Trabalho atualmente como suporte técnico
 - 📕 Estou estudando Java e Kotlin para Mobile
 - 🌱 Estou estudando desenvolvimento web completo
 
