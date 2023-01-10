@@ -1,8 +1,8 @@
 ### 👋Hi! My name is Natan Vilas Boas
 
-- 🔭 Trabalho atualmente com front-end e mobile
-- 📕 Estou estudando Java para Mobile
-- 🌱 Estou estudando JavaScript
+- 🔭 Trabalho atualmente com suporte técnico
+- 📕 Estou estudando Java e Kotlin para Mobile
+- 🌱 Estou estudando desenvolvimento web completo
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <br>
