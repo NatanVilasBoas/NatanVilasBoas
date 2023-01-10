@@ -15,7 +15,7 @@
   <br>
   <br>
 <div>
-  Linguagens que tenho interesse:
+  Linguagens e ferramentas que tenho interesse:
 </div>
 <div>
   <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
