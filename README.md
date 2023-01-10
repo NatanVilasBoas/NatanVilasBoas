@@ -1,4 +1,4 @@
-### 👋Oi! Meu nome é Natan Vilas Boas
+### 👋Hi! My name is Natan Vilas Boas
 
 - 🔭 Trabalho atualmente com front-end e mobile
 - 📕 Estou estudando Java para Mobile
