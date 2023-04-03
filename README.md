@@ -7,6 +7,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <br>
   <br>
+<div>
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
+</div>  
   <br>
   <br>
 <div>
