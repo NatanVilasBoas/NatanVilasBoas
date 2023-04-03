@@ -9,6 +9,7 @@
   <br>
 <div>
   <img height="180px"src="https://github-readme-stats.vercel.app/api?username=Natan200-2&show_icons=true&theme=codeSTACKr">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natan200-2"
 </div>  
   <br>
   <br>
