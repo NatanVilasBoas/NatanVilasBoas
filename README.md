@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente como suporte técnico
 - 📕 Estou estudando Java e Kotlin para Mobile
-- 🌱 Estou estudando desenvolvimento web completo
+- 📕 Estou estudando desenvolvimento web completo
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <br>
