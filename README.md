@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/Natan200-2">
   <img height="180px"src="https://github-readme-stats.vercel.app/api?username=Natan200-2&show_icons=true&theme=codeSTACKr">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/?username=Natan200-2&layout=compact&theme=codeSTACKr">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natan200-2&layout=compact&theme=codeSTACKr">
   </a>
 </div>  
   <br>
