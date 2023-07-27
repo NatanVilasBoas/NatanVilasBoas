@@ -22,6 +22,7 @@
 </div>
   <br>
 <div>
+  <i class="devicon-laravel-plain colored"></i>
   <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
