@@ -3,7 +3,7 @@
 - 🔭 Trabalho atualmente como suporte técnico
 - Desenvolvedor PHP
 - 📕 Estou estudando Java e Kotlin para Mobile
-- 📕 Estou estudando desenvolvimento web completo
+- 📕 Estou estudando JavaScript
 - 📕 Estou estudando Laravel
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
