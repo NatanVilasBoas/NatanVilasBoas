@@ -11,7 +11,7 @@
   <br>
   <div>
 <img 
- width="530px" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+ width="530px" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
   </div>
   <div>
   <a href="https://github.com/Natan200-2">
