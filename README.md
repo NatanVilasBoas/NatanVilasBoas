@@ -9,7 +9,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <br>
   <br>
-<div>
+  <div>
+<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+  </div>
+  <div>
   <a href="https://github.com/Natan200-2">
   <img height="180px"src="https://github-readme-stats.vercel.app/api?username=Natan200-2&show_icons=true&theme=codeSTACKr">
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natan200-2&layout=compact&theme=codeSTACKr">
