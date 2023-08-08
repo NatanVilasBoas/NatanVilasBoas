@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho atualmente como suporte técnico
 - Desenvolvedor PHP
-- 📕 Estou estudando Java e Kotlin para Mobile
 - 📕 Estou estudando JavaScript
 - 📕 Estou estudando Laravel
 
