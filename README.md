@@ -1,9 +1,10 @@
 ### 👋Hi! My name is Natan Vilas Boas
 
-- 🔭 Trabalho atualmente como suporte técnico
-- Desenvolvedor PHP
-- 📕 Estou estudando JavaScript
-- 📕 Estou estudando Laravel
+- 🔭 Working with technical support
+- PHP developer
+- 📕 I'm learning JavaScript
+- 📕 I'm learning Laravel
+- 📕 I'm learning React
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <br>
