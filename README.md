@@ -22,7 +22,7 @@
   <br>
   <br>
 <div>
-  Linguagens e ferramentas que tenho interesse:
+  Languagens and tools that I have interest:
 </div>
   <br>
 <div>
