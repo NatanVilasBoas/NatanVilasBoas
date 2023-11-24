@@ -18,7 +18,7 @@
   <br>
   <br>
 <div>
-  Languagens, tools and frameworks that I like to use:
+  Languages, tools and frameworks that I like to use:
 </div>
   <br>
 <div>
