@@ -12,9 +12,7 @@
 <p> - 🔭 I’m currently working on <a href="https://github.com/Natan200-2/">Cinetag</a></p>
 
 <p> - 🌱 I’m currently learning <strong>JavaScript, PHP, Laravel and React</strong> </p>
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=natan200-2&theme=codeSTACKr" alt="natan200-2" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Natan200-2&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
