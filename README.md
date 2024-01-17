@@ -9,7 +9,6 @@
 
 <p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p> - 🔭 I’m currently working on <a href="https://github.com/NatanVilasBoas/">Cinetag</a></p>
 
 <p> - 🌱 I’m currently learning <strong>JavaScript, PHP, Laravel and React</strong> </p>
 
