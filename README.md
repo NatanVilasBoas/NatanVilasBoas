@@ -1,8 +1,10 @@
 
-
-<h1 align="center">Hi 👋, I'm Natan Vilas Boas</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
-
+<div align="center">
+  <h1>Hi 👋, I'm Natan Vilas Boas</h1>
+  <h3>A passionate developer from Brazil</h3>
+  <a href="https://natan-vilas-boas-portfolio.vercel.app/">My portfolio</a>
+</div>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NatanVilasBoas&label=Profile%20views&color=0e75b6&style=flat" alt="natan200-2" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NatanVilasBoas&theme=onedark" alt="natan200-2" /></a> </p>
