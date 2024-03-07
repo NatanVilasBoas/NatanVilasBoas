@@ -76,7 +76,8 @@
   </a> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanVilasBoas&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="NatanVilasBoas" />
-<img src="https://github-readme-stats.vercel.app/api?username=NatanVilasBoas&show_icons=true&locale=en&theme=codeSTACKr" alt="NatanVilasBoas" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NatanVilasBoas&show_icons=true&locale=en&theme=codeSTACKr" alt="NatanVilasBoas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanVilasBoas&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="NatanVilasBoas" /></p>
 
 </div>
