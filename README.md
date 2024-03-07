@@ -1,7 +1,6 @@
 
 <div align="center">
-  <h1>Hi 👋, I'm Natan Vilas Boas</h1>
-  <h3>A passionate developer from Brazil</h3>
+  <h1>Hey there! I'm Natan</h1>
   <a href="https://natan-vilas-boas-portfolio.vercel.app/">My portfolio</a>
 </div>
 <br>
