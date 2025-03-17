@@ -11,7 +11,7 @@
 <p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<p> - 🌱 I’m currently learning <strong>JavaScript, PHP, Laravel and React</strong> </p>
+<p> - 🌱 I’m currently learning and working with <strong>React and React Native</strong> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
