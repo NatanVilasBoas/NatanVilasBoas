@@ -1,24 +1,24 @@
-## Oi, eu sou o Natan 👋
+## Hey, I'm Natan 👋
 
-Desenvolvedor Full Stack em Botucatu, SP. Passo a maior parte do tempo no **React Native**, e quando o app precisa de uma API, também escrevo o **Spring Boot** por trás dela.
+Full Stack Developer from Botucatu, Brazil. I spend most of my time in **React Native**, and when the app needs an API, I write the **Spring Boot** behind it too.
 
-- 📱 Trabalho em apps com **mais de 500 mil downloads**
-- 🏗️ Ajudei a migrar um app React Native inteiro de componentes de classe para uma arquitetura moderna
-- 🧪 Levei a cobertura de testes de **50% para 90%**, e por isso gosto mais de teste do que deveria
-- 🎯 Objetivo: chegar a **Tech Lead Frontend**
-- 🎮 Fora do código: games
-- 💬 Pode me perguntar sobre **React Native, arquitetura de front-end e testes com Jest**
+- 📱 Working on apps with **500k+ downloads**
+- 🏗️ Helped migrate an entire React Native app from class components to a modern architecture
+- 🧪 Took test coverage from **50% to 90%**, so I enjoy writing tests more than I probably should
+- 🎯 Goal: become a **Frontend Tech Lead**
+- 🎮 Off the keyboard: games
+- 💬 Ask me about **React Native, front-end architecture and testing with Jest**
 
-### 🔭 Agora
+### 🔭 Right now
 
-- Construindo um projeto full stack (React Native + Spring Boot) para abrir aqui em breve
-- Estudando IA rodando direto no celular com React Native
+- Building a full stack project (React Native + Spring Boot) to open-source here soon
+- Exploring on-device AI with React Native
 
-### 📌 Projetos
+### 📌 Projects
 
-- **[WannaDo](https://github.com/NatanVilasBoas/wanna-do)**: gerenciador de tarefas com status, filtros e gráficos · React Native, Expo, Firebase
-- **[Weather Skia](https://github.com/NatanVilasBoas/wheater-skia)**: app de clima com a interface desenhada em Skia · React Native, Skia
-- **[Banco Spring](https://github.com/NatanVilasBoas/banco-spring)**: API REST de contas bancárias com Swagger · Java, Spring Boot, JPA
+- **[WannaDo](https://github.com/NatanVilasBoas/wanna-do)**: task manager with statuses, filters and charts · React Native, Expo, Firebase
+- **[Weather Skia](https://github.com/NatanVilasBoas/wheater-skia)**: weather app with a UI drawn in Skia · React Native, Skia
+- **[Banco Spring](https://github.com/NatanVilasBoas/banco-spring)**: REST API for bank accounts, documented with Swagger · Java, Spring Boot, JPA
 
 ### 🛠️ Stack
 
@@ -26,7 +26,7 @@ Desenvolvedor Full Stack em Botucatu, SP. Passo a maior parte do tempo no **Reac
 
 Expo · React Navigation · Redux Saga · React Query · RTK Query · React Hook Form
 
-### 📫 Contato
+### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/natan-vilas-boas)
-[![E-mail](https://img.shields.io/badge/natanboas21@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:natanboas21@outlook.com)
+[![Email](https://img.shields.io/badge/natanboas21@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:natanboas21@outlook.com)
