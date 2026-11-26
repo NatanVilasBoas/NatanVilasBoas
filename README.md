@@ -32,6 +32,14 @@ Full Stack Developer from Botucatu, Brazil. I spend most of my time in **React N
 
 Expo · React Navigation · Redux Saga · React Query · RTK Query · React Hook Form
 
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatanVilasBoas/NatanVilasBoas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NatanVilasBoas/NatanVilasBoas/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/NatanVilasBoas/NatanVilasBoas/output/github-snake.svg" />
+</picture>
+
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/natan-vilas-boas)
