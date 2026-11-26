@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner-dark.svg" alt="Natan Vilas Boas, Full Stack Developer: React Native + Spring Boot" width="100%" />
+</picture>
+
 ## Hey, I'm Natan 👋
 
 Full Stack Developer from Botucatu, Brazil. I spend most of my time in **React Native**, and when the app needs an API, I write the **Spring Boot** behind it too.
